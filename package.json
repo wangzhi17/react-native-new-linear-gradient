@@ -1,0 +1,42 @@
+{
+  "name": "react-native-new-linear-gradient",
+  "version": "3.0.0",
+  "description": "A <LinearGradient> component for React Native new arch.",
+  "homepage": "https://github.com/wangzhi17/react-native-new-linear-gradient",
+  "dependencies": {
+  },
+  "main": "index.tsx",
+  "files": [
+    "android",
+    "ios",
+    "src",
+    "index.tsx",
+    "index.android.js",
+    "index.ios.js",
+    "react-native-new-linear-gradient.podspec"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wangzhi17/react-native-new-linear-gradient.git"
+  },
+  "scripts": {
+  },
+  "author": {
+    "email": "wangzhi0114@163.com",
+    "name": "Zhi Wang",
+    "url": "https://github.com/wangzhi17"
+  },
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "*",
+    "react-naitve": "*"
+  },
+  "codegenConfig": {
+    "name": "RNLinearGradientSpecs",
+    "type": "components",
+    "jsSrcsDir": "src",
+    "android": {
+      "javaPackageName": "com.rnlineargradient"
+    }
+  }
+}
