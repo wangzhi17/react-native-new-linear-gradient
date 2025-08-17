@@ -1,6 +1,6 @@
 {
   "name": "react-native-new-linear-gradient",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "A <LinearGradient> component for React Native new arch.",
   "homepage": "https://github.com/wangzhi17/react-native-new-linear-gradient",
   "dependencies": {
